@@ -16,9 +16,17 @@ Or install it yourself as:
 
     $ gem install bootstrap_tokenfield_rails
 
-### Usage
+## Usage
 
-    $('input').tokenfield()
+Given an input field, add a class of your choice to it.
+    <input type="text" class="tokenize">
+
+Then tokenize the input field as follows.
+    $('input.tokenize').tokenfield();
+
+## Screenshot 
+
+![](http://i.imgur.com/eRvIWIy.png)
 
 ## Contributing
 
@@ -31,3 +39,7 @@ Or install it yourself as:
 ## Contributors
 
 [Akash Devaraju](https://github.com/akashdevaraju)
+
+### License
+
+Availaible under the MIT License.
