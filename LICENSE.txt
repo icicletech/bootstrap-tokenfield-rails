@@ -1,4 +1,4 @@
-Copyright (c) 2013 Akash Devaraju
+Copyright (c) 2013 Icicle Technologies Private Limited
 
 MIT License
 
