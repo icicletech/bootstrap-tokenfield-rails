@@ -2,6 +2,8 @@
 
 A gem for the [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) plugin.
 
+Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/).
+
 ## Installation
 
 Add this line to your application's Gemfile:
