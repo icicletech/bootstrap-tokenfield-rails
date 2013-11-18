@@ -19,9 +19,11 @@ Or install it yourself as:
 ## Usage
 
 Given an input field, add a class of your choice to it.
+
     <input type="text" class="tokenize">
 
 Then tokenize the input field as follows.
+
     $('input.tokenize').tokenfield();
 
 ## Screenshot 
