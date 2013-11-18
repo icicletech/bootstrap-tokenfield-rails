@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = BootstrapTokenfieldRails::VERSION
   spec.authors       = ["Akash Devaraju"]
   spec.email         = ["akash.devaraju@icicletech.com"]
-  spec.description   = %q{Bootstrap Tokenfield gem for rails asset pipeline}
+  spec.description   = %q{A gem for adding the tokenizing plugin, Bootstrap Tokenfield to the rails asset pipeline}
   spec.summary       = %q{A jQuery tagging / tokenizer input plugin for Twitter's Bootstrap}
-  spec.homepage      = "http://github.com/icicletech/bootstrap-tokenfield-rails"
+  spec.homepage      = "http://www.icicletech.com/open-source-software/bootstrap-tokenfield-rails"
   spec.license       = "MIT"
 
   spec.files         = Dir["{lib,vendor}/**/*"]
