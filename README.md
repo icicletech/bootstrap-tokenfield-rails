@@ -44,7 +44,7 @@ Then tokenize the input field as follows.
   <li>Released gem v.0.0.3 (for bootstrap tokenfield 0.9.9-1) </li>
   <li>Released gem v.0.0.2</li>
   <li>Released gem v.0.0.1</li>
-<ul>
+</ul>
 
 ## Contributors
 
