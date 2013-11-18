@@ -2,7 +2,7 @@
 
 A gem for the [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) plugin.
 
-Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/).
+Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/) from [Sliptree](https://sliptree.com/).
 
 ## Installation
 
@@ -52,6 +52,8 @@ Then tokenize the input field as follows.
 ## Contributors
 
 [Akash Devaraju](https://github.com/akashdevaraju)
+
+[Ragulka](https://github.com/ragulka) ([Sliptree](https://sliptree.com/))
 
 ### License
 
