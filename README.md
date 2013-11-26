@@ -1,10 +1,12 @@
 # Bootstrap Tokenfield Gem for Rails
 
-A gem for the [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) plugin.
+A gem for the [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) plugin by [Icicle](http://www.icicletech.com).
 
-Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/) from [Sliptree](https://sliptree.com/).
+
+For more information on this gem visit [Bootstrap Tokenfield Rails gem](http://www.icicletech.com/open-source-software/bootstrap-tokenfield-rails).
 
 ## Installation
+
 
 Add this line to your application's Gemfile:
 
@@ -28,7 +30,9 @@ Then tokenize the input field as follows.
 
     $('input.tokenize').tokenfield();
 
-## Screenshot 
+Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/).
+
+## Screenshot
 
 ![](http://i.imgur.com/eRvIWIy.png)
 
@@ -40,7 +44,7 @@ Then tokenize the input field as follows.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Changelog 
+## Changelog
 
 <ul>
   <li>Released gem v.0.0.4 (Updated gem description and homepage) </li>
@@ -49,12 +53,12 @@ Then tokenize the input field as follows.
   <li>Released gem v.0.0.1</li>
 </ul>
 
+
 ## Contributors
 
 [Akash Devaraju](https://github.com/akashdevaraju)
 
-[Ragulka](https://github.com/ragulka) ([Sliptree](https://sliptree.com/))
-
+[Ragulka](https://github.com/ragulka)
 ### License
 
-Availaible under the MIT License.
+Available under the MIT License.
