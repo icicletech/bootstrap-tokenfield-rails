@@ -1,7 +1,6 @@
 # Bootstrap Tokenfield Gem for Rails
 
-A gem for the [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) plugin by [Icicle](http://www.icicletech.com).
-
+This gem tokenizes your input field, allowing the user to input and manage multiple values into the input field effortlessly, by [Icicle](http://www.icicletech.com).
 
 For more information on this gem visit [Bootstrap Tokenfield Rails gem](http://www.icicletech.com/open-source-software/bootstrap-tokenfield-rails).
 
@@ -18,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bootstrap_tokenfield_rails
+   $ gem install bootstrap_tokenfield_rails
 
 ## Usage
 
