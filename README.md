@@ -19,6 +19,13 @@ Or install it yourself as:
 
    $ gem install bootstrap_tokenfield_rails
 
+## Features
+
+* Copy & paste tokens with Ctrl+C and Ctrl+V
+* Keyboard navigation, delete tokens with keyboard (arrow keys, Shift + arrow keys)
+* Select specific tokens with Ctrl + click and Shift + click
+* Twitter Typeahead and jQuery UI Autocomplete support
+
 ## Usage
 
 Given an input field, add a class of your choice to it.
@@ -46,6 +53,7 @@ Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/).
 ## Changelog
 
 <ul>
+  <li>Released gem v.0.0.5 (for bootstrap tokenfield 0.10.0) </li>
   <li>Released gem v.0.0.4 (Updated gem description and homepage) </li>
   <li>Released gem v.0.0.3 (for bootstrap tokenfield 0.9.9-1) </li>
   <li>Released gem v.0.0.2</li>
