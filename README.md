@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-   $ gem install bootstrap_tokenfield_rails
+    $ gem install bootstrap_tokenfield_rails
 
 Add this line to your application.js file
 
