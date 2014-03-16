@@ -11,13 +11,22 @@ Add this line to your application's Gemfile:
 
     gem 'bootstrap_tokenfield_rails'
 
+
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
    $ gem install bootstrap_tokenfield_rails
+
+Add this line to your application.js file
+
+    //= require bootstrap-tokenfield
+
+Add this line to your application.css file
+
+    *= require bootstrap-tokenfield
 
 ## Features
 
