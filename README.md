@@ -62,7 +62,8 @@ Check out the [demo and docs](http://sliptree.github.io/bootstrap-tokenfield/).
 ## Changelog
 
 <ul>
-  <li>Released gem v.0.0.6 (for bootstrap tokenfield 0.12.0) </li>
+  <li>Released gem v.0.0.7 (for bootstrap tokenfield 0.12.1) </li>
+  <li>Released gem v.0.0.6 (for bootstrap tokenfield 0.11.0) </li>
   <li>Released gem v.0.0.5 (for bootstrap tokenfield 0.10.0) </li>
   <li>Released gem v.0.0.4 (Updated gem description and homepage) </li>
   <li>Released gem v.0.0.3 (for bootstrap tokenfield 0.9.9-1) </li>
