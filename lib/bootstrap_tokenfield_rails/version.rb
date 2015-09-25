@@ -1,3 +1,3 @@
 module BootstrapTokenfieldRails
-  VERSION = "0.0.9"
+  VERSION = "0.12.1"
 end
